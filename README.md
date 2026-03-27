@@ -1,6 +1,4 @@
-# EEE376-Deepfake-Voice-Detection
-Detection of AI-Generated Speech from Real Human Voice — EEE 376 DSP Project
-# EEE 376 — Detection of AI-Generated Speech from Real Human Voice
+# EEE 376 Project — Detection of AI-Generated Speech from Real Speech
 
 **Course:** Digital Signal Processing (EEE 376), BUET 
 **Department:** Biomedical Engineering (BME)
