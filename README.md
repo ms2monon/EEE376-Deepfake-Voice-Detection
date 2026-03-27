@@ -1,8 +1,10 @@
 # EEE 376 Project — Detection of AI-Generated Speech from Real Speech
 
-**Course:** Digital Signal Processing (EEE 376), BUET\n 
-**Department:** Biomedical Engineering (BME)\n
-**Lab Section:** A2 | **Project Group:** 06\n
+**Course:** Digital Signal Processing (EEE 376), BUET
+
+**Department:** Biomedical Engineering (BME)
+
+**Lab Section:** A2 | **Project Group:** 06
 
 **Team Members:**
 | Student ID | Name |
