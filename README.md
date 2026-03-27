@@ -127,6 +127,6 @@ Only needed if you want to retrain on a new dataset.
 ---
 
 ## Requirements
-- MATLAB R2022b or later
+- MATLAB R2021b or later
 - Signal Processing Toolbox
 - Statistics and Machine Learning Toolbox
