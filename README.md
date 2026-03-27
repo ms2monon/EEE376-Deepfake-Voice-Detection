@@ -2,8 +2,9 @@
 Detection of AI-Generated Speech from Real Human Voice — EEE 376 DSP Project
 # EEE 376 — Detection of AI-Generated Speech from Real Human Voice
 
-**Course:** Digital Signal Processing (EEE 376), BUET  
-**Section:** A2 | **Group:** 06
+**Course:** Digital Signal Processing (EEE 376), BUET 
+**Department:** Biomedical Engineering (BME)
+**Lab Section:** A2 | **Project Group:** 06
 
 **Team Members:**
 | Student ID | Name |
